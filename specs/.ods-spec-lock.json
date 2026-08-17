@@ -1,9 +1,9 @@
 {
-  "source": "../ods-spec",
+  "source": ".tmp/ods-spec",
   "commit": "8fb5c6b8178de63e2a541cf4c46717db259c431b",
   "short": "8fb5c6b",
-  "branch": "origin/main",
-  "syncedAt": "2026-08-16T08:32:30.257Z",
+  "branch": "main",
+  "syncedAt": "2026-08-17T06:46:35.223Z",
   "files": {
     "specs": [
       "intro.md",
@@ -33,6 +33,5 @@
       "faq.md",
       "mistakes.md"
     ]
-  },
-  "ref": "origin/main"
+  }
 }
